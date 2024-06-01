@@ -4,6 +4,9 @@ Sorry to disappoint; this is not a programming project. Instead, this repository
 
 ### Links for your convenience:
 [UHP Homepage](https://honors.dasa.ncsu.edu/)
+
 [UHP Acceptance Criteria](https://honors.dasa.ncsu.edu/prospective/high-school-seniors/)
+
 [UHP Graduation Criteria](https://honors.dasa.ncsu.edu/current-students/requirements/)
+
 [UHP Portfolio Requirements](https://honors.dasa.ncsu.edu/current-students/portfolio/)
